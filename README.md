@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jlmoraleshellin
-- 👀 I’m interested in bioinformatics and computational biology applications of AI.
-- 🌱 I’m currently learning how to integrate xisting LLM models into my own apps.
+- 👀 I’m interested in bioinformatics and AI.
 - 📫 How to reach me: jlmoraleshellin@gmail.com
 - ⚡ Fun fact: I love League of Legends
 

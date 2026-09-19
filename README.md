@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @jlmoraleshellin
-- 👀 I’m interested in bioinformatics and AI.
-- 📫 How to reach me: jlmoraleshellin@gmail.com
-- ⚡ Fun fact: I love League of Legends
+<div align="center">
+  <img src="assets/prosapia_hero.webp" width="1000" alt="A rotating protein">
+</div>
 
-<!---
-jlmoraleshellin/jlmoraleshellin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Jose
+
+I design proteins and like writing software. 
+
+For the protein part: my current focus is high-order symmetric oligomer design.
+
+For the software: I'm currently building [**prosapia**](https://github.com/jlmoraleshellin/prosapia), a shared, dynamic workbench for protein-design tools on HPC. What started as a personal tool to streamline my own design workflows, has now become a general workbench others can build on! It aims for users to be able to run many tools over the same designs, then explore, fork, and back-track as the science demands.
